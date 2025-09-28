@@ -1,0 +1,12 @@
+org\example\imageprocessing\Launcher.class
+org\example\imageprocessing\Image\ImageData.class
+org\example\imageprocessing\IO\ImageReadInf.class
+org\example\imageprocessing\Filter\GreyScaleFilter.class
+module-info.class
+org\example\imageprocessing\ImageProcessor\ImageProcessor.class
+org\example\imageprocessing\ImageProcessor\DrawMultipleImagesOnCanvas$1.class
+org\example\imageprocessing\Filter\ImageFilter.class
+org\example\imageprocessing\HelloApplication.class
+org\example\imageprocessing\ImageProcessor\DrawMultipleImagesOnCanvas.class
+org\example\imageprocessing\ImageProcessor\ImageProcessor$1.class
+org\example\imageprocessing\IO\FileImageRead.class
